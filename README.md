@@ -25,7 +25,7 @@ Ou então utilizar das funcionalidades oferecidas pelo [pycharm](https://www.jet
 
 A versão do [python 3.8.10](https://www.python.org/)
 
-A versão do [postegrees 13.3] (https://www.postgresql.org/)
+A versão do [postegrees 13.3](https://www.postgresql.org/)
 
 ## Fonte de Dados 
 
