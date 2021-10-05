@@ -1,0 +1,25 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2021-10-05 19:08:07.000",
+    "document_create_version": "10.5.2.4",
+    "document_default_animation": "",
+    "document_duration": 8730,
+    "document_framerate": 25,
+    "document_modify_date": "2021-10-05 19:12:39.000",
+    "document_name": "VE Project 2",
+    "document_new_version": "10.5.2.4",
+    "document_project_archive": false,
+    "document_project_guid": "b68d093e-abce-4407-aef4-dac6da2cfaec",
+    "document_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "document_type_name": "wfp",
+    "document_used_id_name": [
+    ],
+    "document_used_pack_name": [
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}
